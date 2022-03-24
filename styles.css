@@ -1,0 +1,64 @@
+body
+{
+	background-color	:	rgb(255, 255, 255);
+	margin	:	0px auto;
+}
+.appbody
+{
+	background-color: #097c9b;
+	border : 1px solid #ff0;
+	padding: 20px;
+	margin:0 auto;
+	min-width:26em;
+	max-width:26em;
+}
+h1
+{
+	text-align:center;
+	color:#003652;
+	font-size:40px
+}
+#txtinput
+{
+	text-align:right;
+	height:40px;
+	width:23em;
+	font-size:18px;
+	background-color:#fff;
+}
+#result
+{
+	text-align:right;
+	width:20em;
+	height:35px;
+	font-size:21px;
+	background-color#fff;
+}
+#errmsg
+{
+	text-align:center;
+	width:23em;
+	height:40px;
+	font-size18px;
+	font-weight:600;
+	background-color:#097c9b;
+	color:rgb(243,240,38);
+}
+#txtout
+{
+	text-align:center;
+	width:23em;
+	height:40px;
+	font-size:18px;
+	font-weight:600;
+	background-color:#097c9b;
+	color:rgb(243,240,38);
+}
+
+button
+{
+	width:80px;
+	height:60px;
+	background-color:#fff;
+	font-size:20px;
+}
